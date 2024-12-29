@@ -2,18 +2,41 @@
 
 🌐 **Live Demo**: [Zero School](https://yassientawfikk.github.io/Zero_School/)
 
-This is a responsive and modern website for **Zero School**, built with **HTML**, **CSS**, and **JavaScript**. Deployed using **GitHub Pages**.
+This project is a **learning exercise** created to practice **web development skills**, including HTML, CSS, and JavaScript. The website partially implements features inspired by a design from **Elzero Web School** as part of a web development learning journey. The goal was to build a responsive and visually appealing website while focusing on hands-on coding practice.
+
+---
 
 ## 📸 Screenshots
 
-<img width="1280" alt="Screen Shot 2024-12-30 at 1 41 52 AM" src="https://github.com/user-attachments/assets/1f15bc9d-d0a0-49ed-b4f6-c3c52c0c6a21" />
-<img width="1280" alt="Screen Shot 2024-12-30 at 1 42 23 AM" src="https://github.com/user-attachments/assets/af4df44b-e3aa-4919-a875-c68d10ab0a15" />
-<img width="1280" alt="Screen Shot 2024-12-30 at 1 42 57 AM" src="https://github.com/user-attachments/assets/b7b4753d-7649-4c83-80df-10e3e12e39bd" />
+### Home Page (Dark Theme)
+![Home Page](https://github.com/user-attachments/assets/a5b25962-ef5d-485e-bd10-94d988044f7b)
 
-## 🚀 Quick Start
+### Pricing Plans Section
+![Pricing Plans](https://github.com/user-attachments/assets/72079a67-33f5-4104-bfa0-c8fb85d80556)
 
-1. Clone the repo:
+### Team Members Section
+![Team Members](https://github.com/user-attachments/assets/fca36921-85c4-423c-9593-a66e382c68ba)
+
+### Light Theme Example
+![Light Theme](https://github.com/user-attachments/assets/74bd49fd-cc8b-40d5-87d9-fbe8d320ad5a)
+
+> **Note:** The design and features implemented here are only a part of the original concept. This is a practice project created to learn web development skills, not an original design.
+
+---
+
+## 🚀 Features Implemented
+- **Partially Implemented Design**: Only certain sections of the design are included (e.g., Home, Pricing Plans, Team Members).
+- **Responsive Layout**: Ensures proper display across different devices.
+- **Theme Switcher**: Supports light and dark themes.
+
+---
+
+## 📂 Getting Started
+
+To view or modify the project locally:
+
+1. Clone this repository:
    ```bash
    git clone https://github.com/YassienTawfikk/Zero_School.git
    ```
-2. Open `index.html` in your browser to view locally.
+2. Open `index.html` in your browser to preview the project.
