@@ -1,6 +1,6 @@
 # Zero School Website
 
-🌐 **Live Demo**: [Zero School](https://yassientawfikk.github.io/Zero_School/)
+🌐 **Live Demo**: [Zero School](https://yassientawfikk.github.io/Zero-School-Template/)
 
 This project is a **learning exercise** created to practice **web development skills**, including HTML, CSS, and JavaScript. The website partially implements features inspired by a design from **Elzero Web School** as part of a web development learning journey. The goal was to build a responsive and visually appealing website while focusing on hands-on coding practice.
 
